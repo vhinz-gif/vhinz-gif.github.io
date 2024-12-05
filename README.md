@@ -204,4 +204,6 @@ and is wrapped around the whole page content, except for the footer in this exam
  <div>
   <h1> THANK YOU!!!! </h1>
  </div>
-
+git add .
+git commit -m "remove username"
+git push
