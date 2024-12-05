@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -37,13 +41,10 @@ and is wrapped around the whole page content, except for the footer in this exam
         <h5><b>Description</b> <span class="w3-opacity">November 29, 2024</span></h5>
       </div>
   
-      <div class="w3-container">
+     <div class="w3-container">
         <p>Samahan niyo kami sa pagbisita sa tatlong sikat na lugar sa Maynila! Una, sa National Museum, kung saan unang beses naming namangha sa mga exhibit na nagkukuwento ng yaman ng kasaysayan at talento ng mga Pilipino. Bagamat sa unang palapag lang kami nakapaglibot, bawat artifact at pintura ay tila nagsasalaysay ng ating pagkakakilanlan.
-
           Pangalawa, ang Intramuros, isang makasaysayang lungsod na tila nagbabalik sa lumang panahon. Mula sa makalumang estruktura hanggang sa pagrenta ng bike para libutin ang lugar, tunay na mararamdaman mo ang kasaysayan dito.
-          
           Huling destinasyon namin ay ang Rizal Park, kung saan nagpapaalala ang tahimik na ambiance ng mga sakripisyo ni Dr. Jose Rizal. Paborito namin ang makulay na dancing fountain sa gabi at ang saya ng simpleng pagbili ng mga laruan.
-          
           Sa kabuuan, ang Maynila ay puno ng kasaysayan, kagandahan, at lugar na maaaring balik-balikan!</p>
         <div class="w3-row">
           <div class="w3-col m8 s12">
@@ -55,12 +56,12 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
       </div>
     </div>
-  <!-- END BLOG ENTRIES -->
+ 
   </div>
 
-<!-- Blog entries -->
+
 <div class="w3-col l8 s12">
-  <!-- Blog entry -->
+  
   <div class="w3-card-4 w3-margin w3-white">
     <img src="photo_6222055277482591271_y.jpg" alt="intramuros" style="width: 100%">
     <div class="w3-container">
