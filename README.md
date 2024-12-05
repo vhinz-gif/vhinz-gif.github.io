@@ -32,9 +32,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-row">
 
   <div class="w3-card-4 w3-margin w3-white">
-    <video  width="100%" height="100%" controls>
-      <source src="[Mga Di-Planadong Alaala sa Maynila.mp4](https://youtu.be/DcMEIrcIxF8)" alt="vlog" style="width:100%">
-    </video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DcMEIrcIxF8?si=WWcYqMI_92aeWkp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       >
       <div class="w3-container">
         <h3><b>TRAVELOGUE</b></h3>
