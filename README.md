@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <title>TRAVELOGUE</title>
@@ -206,5 +205,3 @@ and is wrapped around the whole page content, except for the footer in this exam
   <h1> THANK YOU!!!! </h1>
  </div>
 
-</body>
-</html>
