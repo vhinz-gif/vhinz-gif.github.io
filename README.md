@@ -27,7 +27,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-row">
 
   <div class="w3-card-4 w3-margin w3-white">
-    <iframe width="1000" height="315" src="https://www.youtube.com/embed/DcMEIrcIxF8?si=WWcYqMI_92aeWkp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DcMEIrcIxF8?si=WWcYqMI_92aeWkp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       >
       <div class="w3-container">
         <h3><b>TRAVELOGUE</b></h3>
@@ -204,6 +204,4 @@ and is wrapped around the whole page content, except for the footer in this exam
  <div>
   <h1> THANK YOU!!!! </h1>
  </div>
-git add .
-git commit -m "remove username"
-git push
+
